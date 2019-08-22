@@ -110,7 +110,7 @@ let purchase = () => {
                         console.log("Please modify your order or select another item.")
                         console.log("\n")
 
-                        // After 3 seconds display the inventory again so that the customer can make a new selcetion.
+                        
                         setTimeout(function () { displayInventory() }, 3000)
                     }
 
