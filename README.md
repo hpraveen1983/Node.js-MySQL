@@ -24,3 +24,6 @@ Pseudo code
 9. End the database connection and close the app
 
 11. After 3 seconds display the inventory again so that the customer can make a new selection.
+
+
+PS: All required validations are in the Images folder of this assignment.
